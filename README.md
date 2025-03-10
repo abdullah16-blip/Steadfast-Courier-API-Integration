@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Getting Started with Steadfast Courier React App
+### NB: Some files such as node_modules were git ignored. You may have to install those files first. Check the .gitignore file.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
